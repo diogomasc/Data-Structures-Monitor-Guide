@@ -66,4 +66,3 @@ Este repositório contém recursos e materiais para auxiliar no aprendizado de E
 - **Monitor**: Diogo Mascarenhas
 - **E-mail**: diogomascarenhas0574@gmail.com
 - **Issues**: Use para dúvidas e sugestões
-# Data-Structures-Monitor-Guide
