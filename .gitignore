@@ -1,0 +1,48 @@
+# Arquivos objeto e executáveis
+*.o
+*.out
+*.exe
+
+# Arquivos de saída do VSCode
+.vscode/
+*.code-workspace
+
+# Arquivos de debug
+*.dSYM/
+
+# Arquivos temporários
+*.tmp
+*~
+*.swp
+*.swo
+
+# Arquivos de dependência
+*.d
+
+# Arquivos de log
+*.log
+
+# Diretório de saída
+output/
+bin/
+Debug/
+Release/
+
+# Arquivos específicos do Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos específicos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de IDE
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de compilação específicos do projeto
+Operacoes_Basicas_Vetores
+Recursividade
