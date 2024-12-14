@@ -1,4 +1,4 @@
-# ** ShellSort **
+# **ShellSort**
 
 O **ShellSort**, proposto por Donald Shell em 1959, é uma extensão do algoritmo **InsertionSort**. Ele foi desenvolvido para melhorar a eficiência da ordenação, especialmente para listas grandes, resolvendo alguns problemas do InsertionSort, como:
 
