@@ -44,7 +44,7 @@ void imprimirArray(int arr[], int n) {
 
 // Programa principal
 int main() {
-    int arr[] = {6, 5, 8, 2;
+    int arr[] = {6, 5, 8, 2};
     int tamanho = sizeof(arr) / sizeof(arr[0]);
 
     printf("Array original:\n");
